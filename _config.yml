@@ -1,10 +1,11 @@
-theme: minima
+theme: jekyll-theme-midnight
+
 title: Fx250000 Portfolio
 description: Data Analyst | Power BI Enthusiast
 baseurl: "" # Leave blank for GitHub Pages
 url: "https://fx250000.github.io" # Your GitHub Pages URL
 
-# Navigation Links
+# Navigation
 menu:
   - title: Home
     url: /
@@ -12,5 +13,5 @@ menu:
     url: /about/
   - title: Projects
     url: /projects/
-  - title: Contact
-    url: /contact/
+  - title: Blog
+    url: /blog/
